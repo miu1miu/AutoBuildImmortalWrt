@@ -34,7 +34,7 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-app-upnp"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 PACKAGES="$PACKAGES luci-app-vlmcsd"
-PACKAGES="$PACKAGES netaop"
+PACKAGES="$PACKAGES netatop"
 PACKAGES="$PACKAGES adguardhome"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
